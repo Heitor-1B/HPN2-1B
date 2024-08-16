@@ -1,7 +1,7 @@
 # HPN2-1B
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Heitor Prando 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,8 +9,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+heitornprando@gmail.com
 
-@marcelopaludetto
+
 
 ![descrição do GIF](link GIF do Tenor)
